@@ -14,7 +14,7 @@ github_username:  wlada111
 
 # Build settings
 markdown:         kramdown
-remote_theme:     broccolini/athena
+remote_theme:     phlow/feeling-responsive
 permalink:        pretty
 exclude:          [Gemfile*, vendor, README.md, docs]
 plugins:          [jekyll-feed]
