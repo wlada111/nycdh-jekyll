@@ -11,14 +11,22 @@ categories: [ one, two, three ]
 2.**Love**
 3.**Dream**
 
-***
+---
 
 | *Smile*       | *Love*        | *Dream* |
 | ------------- |:-------------:| -----:  |
 | Guanajuato    | Mexico        |     Y   |  
 | New York      | USA           |     Y   |
 | Moscow        | Russia        |     Y   |
+---
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+---
 
 ![alt text][logo]
 
